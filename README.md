@@ -1,5 +1,8 @@
 # data-engineer
 
+This repository contains all the assignments I did, demos as well as projects from data engineer nano degree from Udacity. 
+
+
 
 ### Install Apache Cassendra on Macbook Pro M1 Pro and connect Apache Cassendra with Jupyter Notebook
 1. using homebrew to install following: 
