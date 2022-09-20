@@ -2,15 +2,17 @@
 
 This repository contains all the assignments I did, demos as well as projects from data engineer nano degree from Udacity. 
 
-1. Data Modeling
+### 1. Data Modeling
+
 project: Data Modeling with Postgres & Data Modeling with Apache Cassendra
 
-2. Cloud Data Warehouses
+### 2. Cloud Data Warehouses
+
 project: build an ETL pipeline that extracts data from S3, stores them in Redshift, later implemented a data warehouse for analytics team
 
-3. Data Lakes with Spark
+### 3. Data Lakes with Spark
 
-4. Data Pipeline with Airflow
+### 4. Data Pipeline with Airflow
 
 ### Install Apache Cassendra on Macbook Pro M1 Pro and connect Apache Cassendra with Jupyter Notebook
 1. using homebrew to install following: 
